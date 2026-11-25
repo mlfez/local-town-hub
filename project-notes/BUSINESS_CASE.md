@@ -53,8 +53,20 @@ What would a big rival need? A big map or social media company would need to bui
 
 ## 5. Cloud and operations
 
-What would it take to run this for real? Which parts would you buy as cloud services (SaaS, PaaS, IaaS), and what are the risks of relying on them?
+To run Local Town Hub for real, I would need hosting for the website, a MySQL database to store all the listings and posts, logins, payments, email, security, and customer support. I would also need people: support staff for each section (for example, someone for buy and sell), and someone on the business side to make deals with StFX and approach restaurants about being featured. Later, I could add ordering from restaurants directly through the website. The full list is in the "What a real version would need" table in my project log.
+
+At an early stage, it is not worth running my own servers. I would use cloud services that manage things for me, so I can focus on the business. Logins, payments, email and customer support would be SaaS. The website hosting and the MySQL database would be PaaS.
+
+To avoid being locked in, I would choose providers from the start that make it easy to switch. If a provider goes down or raises its prices, my backup is to move to another provider with a similar service and price.
+
 
 ## 6. Risks and ethics
 
-What could go wrong — for your customers, their data, or society? What would you do about it?
+Scams in buy and sell. Scams have a high chance of happening, and they can come from either side, the buyer or the seller. Before people contact each other, we show safety rules: meet in a public place, check the item before paying, and only pay through a bank or a safe method. We also offer protected purchases, where the money goes through us and we deal with it if the item is not as described. We cannot stop every scam, but we will do our best to give a good customer experience.
+
+Wrong or misleading information. Users can flag a listing that looks wrong or contact us. We check it, fix it if it is wrong, and keep it if it is correct. In the future, we could pull information from trusted public sources to keep it up to date.
+
+User data. We store users' first and last names, photos, locations and posts in a cloud database from a well-known, reliable provider. We do not handle payments ourselves: they go through a payment provider, such as Google Pay or Apple Pay, so we never store card details. Users can delete their account and posts whenever they want, and when they do, we delete that data from our side too.
+
+AI use: The startup idea, vision, structure and reasoning are my own, based on my experience as a newcomer to Antigonish. I dictated each section by voice and used Claude to clean up my grammar and wording and to point out what was missing from the rubric.
+
