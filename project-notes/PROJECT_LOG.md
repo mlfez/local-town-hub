@@ -15,7 +15,7 @@ Copy this block for each session.
 ### Session — [date] — driver: [first name]
 
 - **Goal for this session:**
-- **Key prompts we gave Copilot** (paste the important ones):
+- **Key prompts we gave the assistant** (paste the important ones):
   1.
   2.
 - **What worked:**
